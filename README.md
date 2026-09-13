@@ -1,46 +1,65 @@
-### Hey there 👋 I'm Nassira
+# Nassira Elouali
 
-- 🔍 Software Tester Engineer at **Airxelerate**
-- 🤖 I'm currently diving deeper into **QA Automation & CI/CD pipelines**
-- 🌱 I'm always learning — currently exploring **cloud testing & AI-assisted QA**
-- 💻 I'm looking to collaborate on **open-source testing tools & frameworks**
-- 💬 Ask me about **software testing, test automation, quality engineering**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nassira-elouali-250897167)
+## I build quality systems that help teams release with confidence.
 
----
+I’m a QA Engineer who goes beyond asking, “Does the test pass?”
 
-#### 🛠 Tech & Tools
+I want to understand how the product should work, where the real risks are, what a failure means for the user, and how testing can become more reliable, repeatable, and useful to the whole team.
 
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+My approach starts with **functional understanding**. I transform requirements, business rules, and real user journeys into a clear testing strategy. Then I use **automation, APIs, and CI/CD** where they bring speed, confidence, and meaningful coverage.
 
----
+## How I create value
 
-#### 📊 GitHub Metrics
+* Connect business requirements with real test coverage
+* Identify risks and edge cases before they reach users
+* Build maintainable automation for critical workflows
+* Turn repetitive QA work into reusable systems and tools
+* Investigate failures instead of simply rerunning tests
+* Communicate bugs, risks, and release impact clearly
+* Collaborate with developers, product owners, and testers
+* Improve the testing process, not only execute test cases
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nassira/nassira/main/github-metrics.svg" alt="GitHub metrics: activity, languages, achievements" />
-</p>
+## My quality toolkit
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nassira&theme=tokyonight&hide_border=true" height="165" />
-</p>
+`Functional Testing` · `Test Strategy` · `Exploratory Testing` · `Regression Testing` · `Cypress` · `Playwright` · `API Testing` · `JavaScript` · `TypeScript` · `Postman` · `Robot Framework` · `GitHub Actions` · `Jenkins`
 
----
+## What I’m building
 
-#### 🐍 Contribution Snake
+### Reliable test automation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nassira/nassira/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
+Playwright and Cypress projects based on realistic user journeys, maintainable architecture, useful reporting, and CI execution.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nassira&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Practical API testing
+
+Examples that cover more than successful requests: authentication, contracts, negative scenarios, data validation, error handling, and integration risks.
+
+### Open-source skills for testers
+
+Reusable AI skills that help testers:
+
+* Transform technical notes into clear bug reports
+* Design meaningful test scenarios
+* Investigate automated test failures
+* Classify flaky tests and regressions
+* Find shared root causes
+* Communicate quality and release risks
+
+I want these skills to be practical enough for testers to use in real work, adapt to their projects, and improve through collaboration.
+
+## How I think about quality
+
+> Automation is valuable when it improves confidence, feedback, and decision-making, not when it only increases the number of tests.
+
+I care about building testing systems that are understandable, maintainable, and connected to product risk. AI can strengthen this work, but tester judgment remains essential.
+
+## Why this GitHub exists
+
+This GitHub is where I turn what I learn and solve into public, reusable work.
+
+I’m building it as a growing collection of testing projects, experiments, open-source skills, and practical knowledge for the QA community.
+
+## Let’s connect
+
+I’m open to **QA engineering, test automation, and quality engineering opportunities**, as well as collaborations around open-source testing tools and AI-assisted QA.
+
+[Email me](mailto:eloualinassira@gmail.com)
