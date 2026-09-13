@@ -25,7 +25,31 @@
 
 #### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nassira&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nassira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassira&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nassira&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+#### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nassira&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+#### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nassira/nassira/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nassira&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
